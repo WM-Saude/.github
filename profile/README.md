@@ -8,4 +8,10 @@
 </p>
 <div align="center">
   <a href="https://documentation-wmsaude.vercel.app/" target="_blank">Documentação</a>
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="/profile/pullrequest/index.md" target="_blank">Padrão de Pull Request</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="/profile/flowpr/index.md" target="_blank">Flow Pull Request</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="/profile/cleancode/index.md" target="_blank">Clean Code</a>
   <hr />
